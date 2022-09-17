@@ -127,31 +127,3 @@ body {
 .contatos img {
   max-height: 70px;
 }
-
-/* 
-*******************
-     +Add CSS 
-*******************
-*/
-
-.contato {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin-top: 24px;
-}
-
-.contato h3 {
-  font-weight: 700;
-  font-size: 24px;
-}
-
-.contato img {
-  max-width: 40px;
-  max-height: 40px;
-}
-
-.icon-note {
-  font-size: 10px;
-  text-align: center;
-}
